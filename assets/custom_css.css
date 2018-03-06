@@ -1,4 +1,8 @@
+html{
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+font-family: 'Roboto', sans-serif;
+}
+
 .main-header{
-@import url('https://fonts.googleapis.com/css?family=Karma');
-font-family: 'Karma', serif;
+font-size: 18pt;
 }
